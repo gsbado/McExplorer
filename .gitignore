@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Frontend (JS / React)
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# Banco vetorial / dados
+chroma_db/
+vector_store/
+*.sqlite
+*.db
+
+# Assets gerados
+uploads/
+generated_images/
