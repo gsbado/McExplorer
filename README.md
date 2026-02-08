@@ -10,10 +10,10 @@ This project also aims to demonstrate the integration of a modern frontend, back
 
 ### 📌 Roadmap
 
-v1: Static catalog with basic search
-v2: API + database
-v3: AI integration and semantic search
-v4: Recommendation system and global ranking
+- v1.0.0: Static catalog with basic search
+- v2.0.0: API + database
+- v3.0.0: AI integration and semantic search
+- v4.0.0: Recommendation system and global ranking
 
 ### ⚠️ Disclaimer
 
